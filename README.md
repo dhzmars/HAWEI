@@ -1,7 +1,7 @@
 # HAWEI
 Haplotype-Resolved Alignment-Based Window Expression Inference (HAWEI)
 
-**IMPORTANT!!** **HAWEI is currently not a fully developed software package. It was developed primarily for personal investigation**  Others are very welcome to use, inspect, adapt, or extend HAWEI if the workflow is useful for related problems.
+**IMPORTANT!!** **HAWEI is currently not a fully developed software package. It was developed primarily for personal investigation**.  Others are very welcome to use, inspect, adapt, or extend HAWEI if the workflow is useful for related problems.
 
 ## What is HAWEI?
 HAWEI is a haplotype-aware RNA-seq analysis workflow designed for cases where a target gene is represented by multiple highly similar haplotypes and conventional transcript quantification can lose resolution because of extensive multi-mapping.
